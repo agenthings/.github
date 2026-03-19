@@ -1,5 +1,3 @@
-# agenthings
-
 AI systems, tools, and infrastructure for practical, reliable intelligent software.
 
 ---
